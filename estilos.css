@@ -1,0 +1,31 @@
+
+div{
+    background-color: rgba(110, 9, 121, 0.289);
+    position: static;
+}
+.button1 {
+    box-shadow: 0 5px 16px 0 rgba(0,0,0,0.2), 0 px 20px 0 rgba(0,0,0,0.19);
+  }
+
+.button1 {
+    box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.181), 0 px 10px 0 rgba(0,0,0,0.19);
+  }
+  
+ img{
+    width: 100px;
+ }
+
+ .button {
+  background-color: #b28ede; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  -webkit-transition-duration: 0.4s; /* Safari */
+  transition-duration: 0.4s;
+}
